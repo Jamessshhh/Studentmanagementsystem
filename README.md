@@ -31,13 +31,13 @@ Ensure you have the following installed:
 
 Steps to Install
 
--Clone the repository:
-
-  git clone https://github.com/Jamessshhh/Studentmanagementsystem.git
-  
--Navigate to the project directory:
-
-  cd Studentmanagementsystem
+1. **Clone the repository**:  
+   ```sh
+   git clone https://github.com/Jamessshhh/Studentmanagementsystem.git
+   
+2.**Navigate to the project directory**:
+    ```sh
+      cd Studentmanagementsystem
   
 -Open the project in Xcode:
 
