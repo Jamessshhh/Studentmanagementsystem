@@ -14,6 +14,7 @@ A simple Swift-based Student Management System for managing student records effi
 
 ✅ User-Friendly UI – Clean and intuitive SwiftUI interface.
 
+
 🛠️ Installation
 
 
@@ -21,28 +22,28 @@ Prerequisites
 
 Ensure you have the following installed:
 
-macOS with Xcode installed
+-macOS with Xcode installed
 
-Swift 5+
+-Swift 5+
 
-Xcode 13+
+-Xcode 13+
 
 
 Steps to Install
 
-Clone the repository:
+-Clone the repository:
 
   git clone https://github.com/Jamessshhh/Studentmanagementsystem.git
   
-Navigate to the project directory:
+-Navigate to the project directory:
 
   cd Studentmanagementsystem
   
-Open the project in Xcode:
+-Open the project in Xcode:
 
   open Studentmanagementsystem.xcodeproj
   
-Run the app:
+-Run the app:
 
   Select a simulator (or a real device if configured).
   
@@ -51,32 +52,32 @@ Run the app:
 
 🎯 Usage
 
-Adding Students
+-Adding Students
 
-Click the "Add New Student" button.
+-Click the "Add New Student" button.
 
-Enter student details and tap "Add Student".
+-Enter student details and tap "Add Student".
 
-Sorting Students
+-Sorting Students
 
-Click "Sort by Marks" to toggle sorting order.
+-Click "Sort by Marks" to toggle sorting order.
 
 Deleting Students
 
-Swipe left on a student entry and tap "Delete".
+-Swipe left on a student entry and tap "Delete".
 
-Viewing Average Grade
+-Viewing Average Grade
 
-The average grade is displayed at the bottom of the screen.
+-The average grade is displayed at the bottom of the screen.
 
 🏗️ Technologies Used
 
 
-Swift 5 – Programming Language
+-Swift 5 – Programming Language
 
-SwiftUI – UI Framework
+-SwiftUI – UI Framework
 
-MVVM Architecture – Clean code structure
+-MVVM Architecture – Clean code structure
 
 🔮 Future Improvements
 
