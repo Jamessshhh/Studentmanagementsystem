@@ -28,21 +28,19 @@ Ensure you have the following installed:
 
 -Xcode 13+
 
-
-Steps to Install
-
+### **Steps to Install**  
 1. **Clone the repository**:  
    ```sh
-   git clone https://github.com/Jamessshhh/Studentmanagementsystem.git
-   
-2.**Navigate to the project directory**:
-    ```sh
-      cd Studentmanagementsystem
-  
--Open the project in Xcode:
+   git clone https://github.com/your-username/Studentmanagementsystem.git
 
-  open Studentmanagementsystem.xcodeproj
-  
+2. **Navigate to the project directory**:
+     ```sh
+     cd Studentmanagementsystem
+     
+3. **Open the project in Xcode**:
+    ```sh
+    open Studentmanagementsystem.xcodeproj
+    
 -Run the app:
 
   Select a simulator (or a real device if configured).
@@ -87,6 +85,11 @@ Deleting Students
 ✅ Persistent Data Storage – Save student records using CoreData or UserDefaults.
 
 ✅ Export/Import Student Data – Allow backup and restore functionality.
+
+📷 Screenshots
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-17 at 11 06 12](https://github.com/user-attachments/assets/03cea090-df08-45e5-8d45-cdfd20492d23)
+
 
 
 
